@@ -1,5 +1,5 @@
 from turtle import forward, left, right, exitonclick
-from math import degrees, atan, sqrt, asin
+from math import degrees, atan, sqrt, asin#asin zjistí úhel, samotný sin vyjadřuje jen poměr stran
 
 def domecek(a, b):
 
